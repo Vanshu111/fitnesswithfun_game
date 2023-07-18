@@ -5,7 +5,6 @@
 1. [About FUNFIT](#about-makeathon)
 2. [Features](#features)
 3. [Tech](#tech)
-4. [Contributors](#contributors)
 
 ## About FUNFIT
 
@@ -32,9 +31,3 @@ We used html and vanilla JavaScript for webpage. Backend is made using graphql. 
 - Flutter
 - Django
 
-## Contributors
-
-- [Harmanjit Singh](https://github.com/Harmanjit14) [Link to ML-kit and flutter code](https://github.com/Harmanjit14/food-scanner-ML)
-- [Kunal Khullar](https://github.com/Kunal-Khullar) [Link to Website and game code](https://github.com/Kunal-Khullar/Hoohacks2021)
-- [Gurleen Kaur](https://github.com/gurleen-kaur1313) [Link to dynamic backend code](https://github.com/gurleen-kaur1313/health_backend)
-- [Paritosh Arora](https://github.com/CLASHERBROs)
